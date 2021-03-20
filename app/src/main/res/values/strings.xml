@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Wisielec</string>
+
+    <string name="game_over_message">Niestety się nie udało. Chcesz zagrać ponownie?</string>
+    <string name="game_won_message">Gratulacje! Otrzymujesz %d pkt. Chcesz zagrać ponownie?</string>
+    <string name="game_won_without_mistakes_message">Gratulacje! Otrzymujesz %d pkt oraz %d monet za bezbłędną grę! Chcesz zagrać ponownie?</string>
+    <string name="play_text">Graj</string>
+
+    <string-array name="game_level_array">
+        <item>Łatwy</item>
+        <item>Średni</item>
+        <item>Trudny</item>
+    </string-array>
+
+    <string name="ranking_points_format">%d pkt</string>
+
+    <string name="ranking_button_text">Ranking</string>
+    <string name="ranking_text">RANKING GRACZY</string>
+    <string name="img_content_description">Obraz przedstawiający ludzika- wisielca</string>
+    <string name="no_text">Nie</string>
+    <string name="not_available_sentences_text">Brak dostępnych haseł. Spróbuj ponownie później.</string>
+    <string name="yes_text">Tak</string>
+    <string name="login_text_button">Zaloguj</string>
+    <string name="exit_game_message">Po wyjściu gra zostanie uznana jako przegrana</string>
+    <string name="exit_text">Wyjście</string>
+    <string name="cancel_text">Anuluj</string>
+    <string name="points_filter_text">Punkty</string>
+    <string name="wins_filter_text">Wygrane</string>
+    <string name="points_franking_text">Punkty</string>
+    <string name="wins_ranking_text">Wygrane</string>
+    <string name="free_coins_button_text">Darmowe monety</string>
+    <string name="error_loading_ads_text">Błąd pobierania reklamy. Spróbuj ponownie później.</string>
+    <string name="not_enough_coins_text">Nie masz wystarczająco monet.</string>
+    <string name="add_coins_for_ads_message">Dodano %d monet</string>
+    <string name="user_info_points_format">%d pkt</string>
+    <string name="show_letter_for_coins_button">Odkryj literę -%d</string>
+</resources>

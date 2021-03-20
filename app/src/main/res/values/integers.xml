@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="game_level_max_incorrect_letters">
+        <item>9</item> <!-- easy -->
+        <item>6</item> <!-- medium -->
+        <item>3</item> <!-- hard -->
+    </integer-array>
+</resources>
